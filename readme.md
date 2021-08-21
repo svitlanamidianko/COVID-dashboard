@@ -1,5 +1,5 @@
 # By Svitlana Midianko (s.midianko@gmail.com)
-find my CV here https://bit.ly/SvitlanaMidianko_May22
+find my CV here 
 # Part 1 - `dashboard.py`
 ## How to install/config dependencies if you dont have Pandas, Numpy:
 - install Python on your machine (follow doc online)
